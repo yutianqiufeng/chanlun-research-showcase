@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.idea/
+.vscode/
+.DS_Store
+
+outputs/
+reports/generated/
+examples/cases/
+!examples/cases/
+!examples/cases/.gitkeep
+!examples/cases/*.csv

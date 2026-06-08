@@ -1,0 +1,2 @@
+case_id,symbol,timeframe,bars_csv,entry_time,entry_price,exit_time,exit_price,outcome_label,exit_kind,max_runup_pct,max_drawdown_pct,realized_return_pct,notes
+demo_case,BTC-USDT-SWAP,5m,cases/demo_case.csv,2025-01-01 12:00:00,96820,2025-01-01 13:00:00,97720,win,take_profit,1.95,-0.19,0.93,Replace this demo row with curated public cases from the private system.
