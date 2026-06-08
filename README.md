@@ -1,5 +1,7 @@
 # ChanLun Research Showcase
 
+[中文说明](README.zh-CN.md)
+
 This repository is a public showcase edition of a larger trading research system.
 
 It is intentionally scoped to demonstrate:
